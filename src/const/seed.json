@@ -1,0 +1,2122 @@
+[
+  {
+    "vacation": [
+      {
+        "id": "0cab883b-270f-470b-8df9-6d285d489068",
+        "start_date": "2023-08-10T16:06:53.999Z",
+        "end_date": "2023-08-10T19:43:16.240Z",
+        "created_at": "2023-08-10T23:59:39.252Z",
+        "updated_at": "2023-08-11T05:24:33.902Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "9afbc375-df61-4b2c-92d7-16e899e666b8",
+        "start_date": "2023-08-10T21:18:46.282Z",
+        "end_date": "2023-08-10T16:42:51.490Z",
+        "created_at": "2023-08-10T18:36:02.724Z",
+        "updated_at": "2023-08-10T18:13:14.079Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "dcb562a0-30ef-4c3e-b2d0-081200492935",
+        "start_date": "2023-08-10T16:34:33.516Z",
+        "end_date": "2023-08-10T08:44:45.554Z",
+        "created_at": "2023-08-10T19:17:02.709Z",
+        "updated_at": "2023-08-10T08:18:41.300Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "ba4c306c-4f58-4967-ad43-f5b8eae989e5",
+        "start_date": "2023-08-10T21:29:26.283Z",
+        "end_date": "2023-08-11T00:29:58.574Z",
+        "created_at": "2023-08-10T10:49:41.648Z",
+        "updated_at": "2023-08-11T04:33:33.115Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "6f100e51-f16d-436f-ab15-7a95e1737c8a",
+        "start_date": "2023-08-10T11:23:00.483Z",
+        "end_date": "2023-08-10T21:29:56.268Z",
+        "created_at": "2023-08-10T20:52:28.905Z",
+        "updated_at": "2023-08-10T13:08:10.210Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "ccdeeafa-9226-4351-a9ad-b158ccb27d78",
+        "hours_worked": 37514,
+        "created_at": "2023-08-10T19:13:33.385Z",
+        "updated_at": "2023-08-10T16:24:48.049Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "328c5e12-7f6a-4279-b822-8ce09a8319d8",
+        "hours_worked": 32351,
+        "created_at": "2023-08-10T21:28:16.141Z",
+        "updated_at": "2023-08-10T15:06:30.200Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "269c681d-8acd-4c8e-b145-83f37dfdb8af",
+        "hours_worked": 35713,
+        "created_at": "2023-08-10T21:57:15.976Z",
+        "updated_at": "2023-08-10T12:03:26.942Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "ccb04f12-0162-4b5c-aff3-4407c96b4c59",
+        "hours_worked": 1212,
+        "created_at": "2023-08-10T13:39:19.980Z",
+        "updated_at": "2023-08-10T10:30:14.659Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "adc45975-5891-48d7-90ed-0bd36d3b3150",
+        "hours_worked": 34296,
+        "created_at": "2023-08-11T03:32:34.283Z",
+        "updated_at": "2023-08-11T04:00:07.175Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "c5ab9f5d-9243-4682-9a10-fa0eaf70dad3",
+        "evaluation_date": "2023-08-11T03:13:03.225Z",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-10T09:39:44.072Z",
+        "updated_at": "2023-08-10T15:04:20.969Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "faa3acb2-8107-4764-8b8e-0f0a56ba0743",
+        "evaluation_date": "2023-08-10T23:37:28.251Z",
+        "evaluation": "Good",
+        "created_at": "2023-08-10T11:30:27.764Z",
+        "updated_at": "2023-08-11T04:16:02.166Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "9a0552df-e5fd-4ba8-a3dc-aba34132ed8b",
+        "evaluation_date": "2023-08-10T11:28:03.488Z",
+        "evaluation": "Average",
+        "created_at": "2023-08-10T16:44:25.086Z",
+        "updated_at": "2023-08-10T19:35:56.292Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "f11abf7f-92c9-431a-a6fd-7127b5ac3ca3",
+        "evaluation_date": "2023-08-10T09:21:53.977Z",
+        "evaluation": "Poor",
+        "created_at": "2023-08-11T03:28:57.853Z",
+        "updated_at": "2023-08-11T01:54:51.999Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "3bc94bb8-818a-4c9c-8a4f-3617890d64de",
+        "evaluation_date": "2023-08-10T18:55:14.507Z",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-11T03:11:09.669Z",
+        "updated_at": "2023-08-10T17:27:07.808Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "cece230e-4834-42e6-a9f0-fbeae8e53fef",
+        "salary": 88160,
+        "created_at": "2023-08-11T07:27:39.024Z",
+        "updated_at": "2023-08-11T06:13:51.907Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "d8c33a75-1aaa-49c1-9efa-8b7bb9e9978f",
+        "salary": 96967,
+        "created_at": "2023-08-10T15:53:20.447Z",
+        "updated_at": "2023-08-11T05:07:00.362Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "cd449d28-926d-422f-b5a2-0715b91b7db3",
+        "salary": 5178,
+        "created_at": "2023-08-10T18:36:43.660Z",
+        "updated_at": "2023-08-10T20:13:33.564Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "bc28b33c-20b3-4ab2-b3ee-44fb56ae6f8d",
+        "salary": 42437,
+        "created_at": "2023-08-11T00:23:24.854Z",
+        "updated_at": "2023-08-11T00:50:35.780Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "21d01c49-49b3-425d-9b08-903f4b812523",
+        "salary": 77121,
+        "created_at": "2023-08-10T23:29:14.227Z",
+        "updated_at": "2023-08-10T13:48:11.842Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e7f46ede-898f-4ab7-9ccd-4f5f7a5da33f",
+        "email": "Maryam_Satterfield-Carter@yahoo.com",
+        "firstName": "Junior",
+        "lastName": "Hahn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90439396",
+        "tenantId": null
+      },
+      {
+        "reference": "fc13854f-2420-4845-a789-978cafbe8fa0",
+        "email": "Dorcas.Torphy-Macejkovic44@gmail.com",
+        "firstName": "Suzanne",
+        "lastName": "Schoen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48842526",
+        "tenantId": null
+      },
+      {
+        "reference": "137e2f00-ddd1-4556-ae1b-64238f7add11",
+        "email": "Adolph.Witting@hotmail.com",
+        "firstName": "Paolo",
+        "lastName": "Carter",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69009917",
+        "tenantId": null
+      },
+      {
+        "reference": "e6e8d0f3-c7a3-4b62-af13-7b552c697eda",
+        "email": "Jamal.Cummerata@gmail.com",
+        "firstName": "Nayeli",
+        "lastName": "Bashirian",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96220533",
+        "tenantId": null
+      },
+      {
+        "reference": "59369b0b-7a54-4b15-8e88-d62cfa60b887",
+        "email": "Mikel_Stamm@hotmail.com",
+        "firstName": "Carmela",
+        "lastName": "Stoltenberg",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5411867",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "5731b4d9-2e66-473f-9e92-270d9aa8dc3e",
+        "start_date": "2023-08-11T06:34:34.760Z",
+        "end_date": "2023-08-11T07:07:31.495Z",
+        "created_at": "2023-08-10T10:04:10.967Z",
+        "updated_at": "2023-08-10T20:53:23.954Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "7af3a062-af34-4615-bb22-4747176a23ae",
+        "start_date": "2023-08-10T19:40:16.423Z",
+        "end_date": "2023-08-10T14:15:54.568Z",
+        "created_at": "2023-08-10T10:08:44.040Z",
+        "updated_at": "2023-08-11T01:09:06.713Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "0d586565-d752-413b-a322-4a4e36d0b3dc",
+        "start_date": "2023-08-11T06:47:29.853Z",
+        "end_date": "2023-08-11T00:21:05.386Z",
+        "created_at": "2023-08-10T09:49:43.859Z",
+        "updated_at": "2023-08-10T08:33:58.953Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "8cdc553c-0df9-4c9d-a939-ebc3bf6e5441",
+        "start_date": "2023-08-10T08:14:04.661Z",
+        "end_date": "2023-08-10T17:13:29.859Z",
+        "created_at": "2023-08-11T03:14:01.888Z",
+        "updated_at": "2023-08-11T01:15:27.460Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "a1a0b7d3-1625-4369-bd9a-992b39515942",
+        "start_date": "2023-08-10T08:59:02.076Z",
+        "end_date": "2023-08-10T19:46:59.396Z",
+        "created_at": "2023-08-10T08:46:17.794Z",
+        "updated_at": "2023-08-11T07:25:44.013Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "4735adbf-3aa0-4ebf-b6cf-7e35fb5e1ca7",
+        "hours_worked": 55149,
+        "created_at": "2023-08-10T16:07:51.229Z",
+        "updated_at": "2023-08-10T21:35:13.135Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "e1cd6ef8-d729-49ed-9aec-258627c5da5b",
+        "hours_worked": 52245,
+        "created_at": "2023-08-10T20:02:21.642Z",
+        "updated_at": "2023-08-11T03:38:55.547Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "db218a67-6dee-4e70-a236-033bf1d5728d",
+        "hours_worked": 67514,
+        "created_at": "2023-08-10T18:45:41.686Z",
+        "updated_at": "2023-08-11T07:44:41.978Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "22aeeebc-0acb-4f1f-8b8c-8125226e38c0",
+        "hours_worked": 23419,
+        "created_at": "2023-08-11T00:59:45.485Z",
+        "updated_at": "2023-08-10T16:06:31.008Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "07802318-52cd-4ac8-84fe-33d066d8f087",
+        "hours_worked": 86208,
+        "created_at": "2023-08-10T19:43:33.176Z",
+        "updated_at": "2023-08-10T08:17:43.433Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "9df0092e-99d5-415f-8828-dba38499ff07",
+        "evaluation_date": "2023-08-10T15:14:24.311Z",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-11T01:22:44.085Z",
+        "updated_at": "2023-08-10T13:37:46.172Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "9cc71782-2a78-46ea-9cd8-29d6a785d5e5",
+        "evaluation_date": "2023-08-10T11:47:21.412Z",
+        "evaluation": "Good",
+        "created_at": "2023-08-10T08:40:15.229Z",
+        "updated_at": "2023-08-10T22:38:32.267Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "00aebf52-be02-4d1f-bf04-dd0bc546ab37",
+        "evaluation_date": "2023-08-11T07:34:26.121Z",
+        "evaluation": "Average",
+        "created_at": "2023-08-10T13:18:50.125Z",
+        "updated_at": "2023-08-11T01:45:43.798Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "ecec60dd-f3ca-4a3f-a015-bed2ec089670",
+        "evaluation_date": "2023-08-11T03:09:51.403Z",
+        "evaluation": "Poor",
+        "created_at": "2023-08-11T04:19:29.046Z",
+        "updated_at": "2023-08-11T07:41:50.934Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "7454c321-873d-44dd-a5fd-44b4b0c60d98",
+        "evaluation_date": "2023-08-10T11:35:48.052Z",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-10T10:10:08.841Z",
+        "updated_at": "2023-08-11T07:47:39.323Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "22d6a00c-698f-4a14-afc4-74ed63a420ad",
+        "salary": 81704,
+        "created_at": "2023-08-10T17:21:43.389Z",
+        "updated_at": "2023-08-11T03:15:13.535Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "1d060ce2-0d04-455e-a67d-4c764bbcd712",
+        "salary": 56472,
+        "created_at": "2023-08-11T04:53:32.385Z",
+        "updated_at": "2023-08-10T22:24:42.369Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "9274c6a0-f421-4bd4-955d-f80baff8f8cf",
+        "salary": 16173,
+        "created_at": "2023-08-10T22:19:08.984Z",
+        "updated_at": "2023-08-10T23:13:10.230Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "0c4f3b1d-c5ba-4e37-999f-1e1d1f559ee5",
+        "salary": 49095,
+        "created_at": "2023-08-10T11:31:21.962Z",
+        "updated_at": "2023-08-10T09:49:22.113Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "af5a2eed-a5a8-4652-91bf-82d819aafef4",
+        "salary": 4298,
+        "created_at": "2023-08-11T05:07:34.298Z",
+        "updated_at": "2023-08-10T13:41:17.279Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2974b3f2-6d33-4955-a973-ba7878f2881c",
+        "email": "Emma93@gmail.com",
+        "firstName": "Rosalyn",
+        "lastName": "Kemmer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1079.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "03616a13-4c02-48ac-a1ea-e0e0126d0803",
+        "email": "Trycia74@yahoo.com",
+        "firstName": "Sterling",
+        "lastName": "Kuhn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/561.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "dca42188-14c3-4db6-93ef-a403286144f4",
+        "email": "Thaddeus41@hotmail.com",
+        "firstName": "Keith",
+        "lastName": "Feil",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1229.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "98a239fc-3cb0-4dc6-99f3-578cf68d9106",
+        "email": "Bonnie_Watsica@gmail.com",
+        "firstName": "Trace",
+        "lastName": "Wilderman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46052332",
+        "tenantId": null
+      },
+      {
+        "reference": "913b0d84-86c4-4ef9-b44d-9c43ff21c58e",
+        "email": "Edna83@yahoo.com",
+        "firstName": "Mandy",
+        "lastName": "Lang",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16680770",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "badfab49-5a93-4e7f-8bed-767d8684854c",
+        "start_date": "2023-08-11T04:44:23.672Z",
+        "end_date": "2023-08-10T09:10:33.867Z",
+        "created_at": "2023-08-10T23:16:18.108Z",
+        "updated_at": "2023-08-11T00:28:15.391Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "0174e678-ca52-45bc-836b-3cca13721c65",
+        "start_date": "2023-08-11T06:25:11.844Z",
+        "end_date": "2023-08-11T06:05:04.218Z",
+        "created_at": "2023-08-10T15:39:14.777Z",
+        "updated_at": "2023-08-10T11:52:00.846Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "bdaf8066-663b-4392-9782-5cafbe6e7ba6",
+        "start_date": "2023-08-10T11:39:14.680Z",
+        "end_date": "2023-08-10T17:11:09.381Z",
+        "created_at": "2023-08-11T06:39:37.884Z",
+        "updated_at": "2023-08-10T18:53:05.964Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "95233adb-970c-4db2-ab1b-1d68e7874900",
+        "start_date": "2023-08-10T18:50:08.378Z",
+        "end_date": "2023-08-10T17:46:05.062Z",
+        "created_at": "2023-08-10T10:52:59.016Z",
+        "updated_at": "2023-08-11T07:50:43.001Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "8befc2df-c7f3-4a00-8764-91b456ba1ba6",
+        "start_date": "2023-08-10T22:30:05.489Z",
+        "end_date": "2023-08-10T17:20:05.461Z",
+        "created_at": "2023-08-11T01:58:59.161Z",
+        "updated_at": "2023-08-11T06:26:28.395Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "39ed734a-de23-4065-880f-ec44929f4368",
+        "hours_worked": 64379,
+        "created_at": "2023-08-11T05:16:09.755Z",
+        "updated_at": "2023-08-10T11:28:04.292Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "44eccd66-68b5-479c-9b81-ceba8b883383",
+        "hours_worked": 46038,
+        "created_at": "2023-08-11T03:39:33.093Z",
+        "updated_at": "2023-08-11T06:17:55.713Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "601ba805-7048-4dc4-8645-c3ca290b9e93",
+        "hours_worked": 35468,
+        "created_at": "2023-08-10T13:10:22.723Z",
+        "updated_at": "2023-08-10T19:32:52.656Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "88217ec6-b9ff-45f9-a50b-78604b2bc86b",
+        "hours_worked": 80655,
+        "created_at": "2023-08-11T05:44:50.130Z",
+        "updated_at": "2023-08-11T01:13:44.675Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "3b3c1d66-6904-4671-8ab1-23c9cffc71dc",
+        "hours_worked": 89967,
+        "created_at": "2023-08-11T04:18:48.475Z",
+        "updated_at": "2023-08-11T05:16:10.042Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "2da84d86-d161-4ef2-b1e5-90229c4a995a",
+        "evaluation_date": "2023-08-10T14:57:16.568Z",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-10T18:40:42.342Z",
+        "updated_at": "2023-08-11T03:13:32.461Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "bee18eaa-a0f5-4b16-93c2-4c6f3fd892a3",
+        "evaluation_date": "2023-08-11T05:21:15.140Z",
+        "evaluation": "Good",
+        "created_at": "2023-08-10T22:26:30.858Z",
+        "updated_at": "2023-08-11T06:07:08.154Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "704a1781-087a-4185-a62f-38a23f03ccb1",
+        "evaluation_date": "2023-08-10T20:47:50.966Z",
+        "evaluation": "Average",
+        "created_at": "2023-08-10T20:26:09.066Z",
+        "updated_at": "2023-08-10T11:03:41.831Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "1ac8ed1a-5c7c-4fb8-ad93-379eed9a4e39",
+        "evaluation_date": "2023-08-10T22:27:43.284Z",
+        "evaluation": "Poor",
+        "created_at": "2023-08-11T07:42:30.052Z",
+        "updated_at": "2023-08-11T07:35:15.185Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "601e5d2c-d7dd-4ba1-b3c6-32231721a3d7",
+        "evaluation_date": "2023-08-10T14:59:58.466Z",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-10T15:24:43.385Z",
+        "updated_at": "2023-08-10T09:51:42.956Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "f45696a7-e2ff-4c13-b9b7-77b2ec760516",
+        "salary": 52097,
+        "created_at": "2023-08-10T12:19:40.164Z",
+        "updated_at": "2023-08-11T07:36:49.777Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "f5cf515b-6c7c-4052-bc1a-b235dd0a7b50",
+        "salary": 96227,
+        "created_at": "2023-08-11T07:41:47.187Z",
+        "updated_at": "2023-08-11T04:09:37.258Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "d3b626ad-2ae0-4d5a-9653-a962303e6d9f",
+        "salary": 36449,
+        "created_at": "2023-08-11T05:35:03.602Z",
+        "updated_at": "2023-08-10T14:51:55.892Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "e3be655b-3ee1-4c48-8440-0c15f585cd13",
+        "salary": 47000,
+        "created_at": "2023-08-11T00:43:13.677Z",
+        "updated_at": "2023-08-10T13:19:36.252Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "f0b7ba4e-d2f6-4a8c-9d94-dd3089b3146b",
+        "salary": 55097,
+        "created_at": "2023-08-11T00:53:19.152Z",
+        "updated_at": "2023-08-10T14:54:51.259Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f365a203-24ee-46a4-bff4-cb019eaf65dd",
+        "email": "Cortney_Feil18@gmail.com",
+        "firstName": "Rusty",
+        "lastName": "Boyer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/956.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "08b20aef-821d-40a4-87a7-fff2bfc98f2c",
+        "email": "Salma.Frami68@hotmail.com",
+        "firstName": "Miracle",
+        "lastName": "Friesen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74562039",
+        "tenantId": null
+      },
+      {
+        "reference": "07b74d34-f4b1-46c8-b86b-af8fe855893a",
+        "email": "Asa.Weissnat57@hotmail.com",
+        "firstName": "Tanya",
+        "lastName": "Hansen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1109.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2e0e4bef-ea24-420c-a4ec-4e14232243f9",
+        "email": "Eugene52@yahoo.com",
+        "firstName": "Domenick",
+        "lastName": "Homenick",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/564.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "442fea93-022d-4de1-a3ae-8943406669e1",
+        "email": "Makayla.Kreiger@yahoo.com",
+        "firstName": "Guiseppe",
+        "lastName": "Mante",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/963.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "cbd92e2f-eda0-4827-ae0c-e9782456ab56",
+        "start_date": "2023-08-10T18:02:16.829Z",
+        "end_date": "2023-08-10T11:16:01.971Z",
+        "created_at": "2023-08-10T14:20:58.077Z",
+        "updated_at": "2023-08-11T05:34:07.214Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "7d9922d8-6e6f-4515-8857-1a08fce8cb45",
+        "start_date": "2023-08-10T23:43:49.308Z",
+        "end_date": "2023-08-10T18:03:47.234Z",
+        "created_at": "2023-08-10T22:02:00.981Z",
+        "updated_at": "2023-08-11T01:17:36.973Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "093eeeea-39cc-4f55-97e0-3385c32c25ac",
+        "start_date": "2023-08-11T00:12:06.778Z",
+        "end_date": "2023-08-11T05:14:06.670Z",
+        "created_at": "2023-08-10T09:55:23.938Z",
+        "updated_at": "2023-08-10T18:25:38.718Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "eff8d036-8de7-404b-8010-bcc1b4476c6e",
+        "start_date": "2023-08-10T20:13:18.059Z",
+        "end_date": "2023-08-10T16:38:38.193Z",
+        "created_at": "2023-08-10T23:29:37.083Z",
+        "updated_at": "2023-08-10T15:16:13.796Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "92cbac8c-877e-44c4-9b82-feb8a4728a1d",
+        "start_date": "2023-08-10T09:12:22.844Z",
+        "end_date": "2023-08-10T21:42:30.266Z",
+        "created_at": "2023-08-11T06:28:48.392Z",
+        "updated_at": "2023-08-11T01:11:37.210Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "3d871cc7-4da9-4a97-8f14-9635dd0b6d49",
+        "hours_worked": 95452,
+        "created_at": "2023-08-11T01:12:37.592Z",
+        "updated_at": "2023-08-11T03:55:02.566Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "294f9512-285c-4f11-9690-d66f8087e1ca",
+        "hours_worked": 46798,
+        "created_at": "2023-08-10T09:29:01.501Z",
+        "updated_at": "2023-08-10T21:40:33.196Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "cb5eded0-8bea-4b25-b2a1-1c88dda3181f",
+        "hours_worked": 6048,
+        "created_at": "2023-08-10T18:34:26.506Z",
+        "updated_at": "2023-08-10T18:39:50.472Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "e4bca8a5-b2fb-4992-8061-c1c05f93d144",
+        "hours_worked": 98985,
+        "created_at": "2023-08-11T07:15:46.356Z",
+        "updated_at": "2023-08-10T13:16:54.862Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "7c5393b9-47af-4d9a-abfa-0199a1e311f3",
+        "hours_worked": 5307,
+        "created_at": "2023-08-11T07:38:26.800Z",
+        "updated_at": "2023-08-11T05:47:27.295Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "a449fb9c-1667-48dc-80e5-0c03eef8af43",
+        "evaluation_date": "2023-08-10T08:51:53.943Z",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-10T12:19:41.369Z",
+        "updated_at": "2023-08-10T17:08:54.707Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "28f2ad2b-5ea8-4005-85de-8f793f419eee",
+        "evaluation_date": "2023-08-11T02:11:08.781Z",
+        "evaluation": "Good",
+        "created_at": "2023-08-11T04:00:32.499Z",
+        "updated_at": "2023-08-11T05:25:06.577Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "ded8cf17-02d1-4752-b1a0-44fa67060e24",
+        "evaluation_date": "2023-08-11T00:50:44.679Z",
+        "evaluation": "Average",
+        "created_at": "2023-08-10T23:39:08.080Z",
+        "updated_at": "2023-08-10T10:41:16.606Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "a145f6c7-8274-4000-aefe-1fe42a340618",
+        "evaluation_date": "2023-08-10T09:00:41.309Z",
+        "evaluation": "Poor",
+        "created_at": "2023-08-11T02:18:23.883Z",
+        "updated_at": "2023-08-10T21:04:35.687Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "6b859fac-f2b8-46c4-9dd1-aac18f5e0cfa",
+        "evaluation_date": "2023-08-11T03:54:26.275Z",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-10T19:03:13.064Z",
+        "updated_at": "2023-08-10T18:45:06.309Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "56b04e68-04b6-447b-aaec-22026d358050",
+        "salary": 48851,
+        "created_at": "2023-08-11T01:53:44.024Z",
+        "updated_at": "2023-08-10T14:50:24.595Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "a25fb63a-eacd-4907-8932-9f5bf25eed91",
+        "salary": 62061,
+        "created_at": "2023-08-11T06:14:29.377Z",
+        "updated_at": "2023-08-10T13:46:02.676Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "0b0ae36e-1c0d-4aaa-98f4-f27406c929a7",
+        "salary": 52168,
+        "created_at": "2023-08-11T04:01:22.302Z",
+        "updated_at": "2023-08-10T13:26:34.702Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "1b95f812-c6e7-457d-b5b1-1794d2afd39d",
+        "salary": 31432,
+        "created_at": "2023-08-10T17:38:50.329Z",
+        "updated_at": "2023-08-11T06:35:09.697Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "74af0ca9-61d1-4763-af32-b675c369f305",
+        "salary": 56451,
+        "created_at": "2023-08-10T13:56:54.461Z",
+        "updated_at": "2023-08-10T16:07:15.568Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e7423f85-3e5b-42cf-b628-66e8cc8fce18",
+        "email": "Susie_Mayert@yahoo.com",
+        "firstName": "Rosalee",
+        "lastName": "Macejkovic",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92066619",
+        "tenantId": null
+      },
+      {
+        "reference": "2b468311-1fc7-4304-9169-235ad15f7988",
+        "email": "Marian20@gmail.com",
+        "firstName": "Beau",
+        "lastName": "Hyatt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/956.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bf806543-9cb5-4cc8-b7ab-0373c8bb17d6",
+        "email": "Vivien_Zboncak84@hotmail.com",
+        "firstName": "Deonte",
+        "lastName": "Smitham",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12149786",
+        "tenantId": null
+      },
+      {
+        "reference": "8da3d4b3-b05f-480e-8d71-a57904ca5df4",
+        "email": "Lawson3@gmail.com",
+        "firstName": "Hermann",
+        "lastName": "Kutch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/780.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "43caf5c1-d3d5-4d94-acfc-8e3460fd8aaa",
+        "email": "Antonia_Stokes@hotmail.com",
+        "firstName": "Aric",
+        "lastName": "Dooley",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87736084",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "77d79df1-1684-4544-9707-eb500cb38dc9",
+        "start_date": "2023-08-10T20:07:54.167Z",
+        "end_date": "2023-08-11T04:09:57.270Z",
+        "created_at": "2023-08-10T16:12:04.159Z",
+        "updated_at": "2023-08-11T01:45:59.475Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "b0fb63eb-09e0-4dcc-8ab4-b4a0d854d8b8",
+        "start_date": "2023-08-10T21:52:37.710Z",
+        "end_date": "2023-08-11T00:06:10.457Z",
+        "created_at": "2023-08-10T18:33:00.411Z",
+        "updated_at": "2023-08-11T01:56:44.896Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "4271f347-cd61-44ec-9d1d-7ece79436ac6",
+        "start_date": "2023-08-10T22:57:03.009Z",
+        "end_date": "2023-08-11T06:25:21.530Z",
+        "created_at": "2023-08-10T13:35:21.015Z",
+        "updated_at": "2023-08-10T13:09:20.751Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "cb47e3ea-76a6-4012-9e0d-888b196ef1ac",
+        "start_date": "2023-08-10T12:56:02.615Z",
+        "end_date": "2023-08-10T22:42:15.254Z",
+        "created_at": "2023-08-11T01:16:45.016Z",
+        "updated_at": "2023-08-11T06:30:15.669Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "298ac9ab-3567-4d78-9da1-68fef771e165",
+        "start_date": "2023-08-10T13:55:19.331Z",
+        "end_date": "2023-08-10T14:52:57.013Z",
+        "created_at": "2023-08-10T19:50:30.191Z",
+        "updated_at": "2023-08-11T06:18:16.157Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "e94dcc62-2d5c-48c9-856f-76c04774102e",
+        "hours_worked": 7858,
+        "created_at": "2023-08-10T15:13:28.216Z",
+        "updated_at": "2023-08-10T20:08:14.296Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "860bd9a3-b87a-4db4-8a2b-fdb09959cd43",
+        "hours_worked": 12382,
+        "created_at": "2023-08-10T12:34:23.290Z",
+        "updated_at": "2023-08-10T16:27:36.293Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "0c519c3e-c268-4eae-a1bb-7432cf455495",
+        "hours_worked": 17346,
+        "created_at": "2023-08-10T15:53:35.561Z",
+        "updated_at": "2023-08-10T18:03:49.854Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "d8ae6e27-f8d2-42e4-bc76-423127594b3b",
+        "hours_worked": 35310,
+        "created_at": "2023-08-10T19:20:27.605Z",
+        "updated_at": "2023-08-10T08:21:05.748Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "6c7e02df-8b06-4ecb-b3b3-ee4078797cfb",
+        "hours_worked": 90656,
+        "created_at": "2023-08-10T08:04:16.781Z",
+        "updated_at": "2023-08-10T15:24:51.226Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "6b923d3f-e53e-409a-a9f7-396e813b9740",
+        "evaluation_date": "2023-08-10T10:44:09.911Z",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-11T03:44:36.834Z",
+        "updated_at": "2023-08-10T14:23:00.984Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "80e80068-c633-454d-b02b-d47341ecdabc",
+        "evaluation_date": "2023-08-10T15:12:59.053Z",
+        "evaluation": "Good",
+        "created_at": "2023-08-11T00:52:27.672Z",
+        "updated_at": "2023-08-11T02:48:35.680Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "c0c6a80a-3f58-4fcb-87fb-ea249649d21e",
+        "evaluation_date": "2023-08-11T04:32:22.588Z",
+        "evaluation": "Average",
+        "created_at": "2023-08-11T00:18:42.081Z",
+        "updated_at": "2023-08-10T14:29:27.934Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "4590c639-932e-44b7-8991-490f3901dd70",
+        "evaluation_date": "2023-08-10T10:08:25.405Z",
+        "evaluation": "Poor",
+        "created_at": "2023-08-10T21:09:55.381Z",
+        "updated_at": "2023-08-11T04:32:43.229Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "05941469-5994-4aca-ad98-980f0987b35e",
+        "evaluation_date": "2023-08-10T22:27:29.007Z",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-10T21:32:56.414Z",
+        "updated_at": "2023-08-10T12:11:46.801Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "1fc0eadb-8bfe-4290-a17b-97e127e2014e",
+        "salary": 31233,
+        "created_at": "2023-08-10T20:46:55.962Z",
+        "updated_at": "2023-08-10T22:28:40.218Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "b331ecae-107f-42ab-a10f-bd8cb24bf6a3",
+        "salary": 47062,
+        "created_at": "2023-08-11T00:20:02.770Z",
+        "updated_at": "2023-08-10T17:18:11.148Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "8f8daaf2-3027-44b7-8386-da9188743252",
+        "salary": 87977,
+        "created_at": "2023-08-10T09:58:54.780Z",
+        "updated_at": "2023-08-10T08:52:41.920Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "0a105d97-b101-488a-8b2b-b22707201562",
+        "salary": 33732,
+        "created_at": "2023-08-11T03:13:43.457Z",
+        "updated_at": "2023-08-10T20:40:23.838Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "1b73b0b6-075f-4e56-955b-10154b151692",
+        "salary": 69227,
+        "created_at": "2023-08-10T22:06:16.106Z",
+        "updated_at": "2023-08-10T23:21:22.536Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "159e112e-0c5d-439e-b316-cd44e6aea78b",
+        "email": "Darron30@hotmail.com",
+        "firstName": "Alexa",
+        "lastName": "Strosin-Streich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/676.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "fbc5d39c-0ee1-4414-ad59-fb0fefa2ff1e",
+        "email": "Richard_Wilkinson@gmail.com",
+        "firstName": "Jamie",
+        "lastName": "McClure",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85888896",
+        "tenantId": null
+      },
+      {
+        "reference": "f81493be-6282-409c-ad69-ba663d663c92",
+        "email": "Aniyah.Monahan54@gmail.com",
+        "firstName": "Jazmyne",
+        "lastName": "Adams",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67140039",
+        "tenantId": null
+      },
+      {
+        "reference": "c95b5cb5-e012-4175-a31d-de750ab35d9b",
+        "email": "Ray.Schamberger@gmail.com",
+        "firstName": "Edd",
+        "lastName": "Greenfelder",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/334.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b7514005-569b-433f-98a4-3ee04c69b81a",
+        "email": "Era_Morissette@gmail.com",
+        "firstName": "Lisandro",
+        "lastName": "Wolf",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/109.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "1d6e6737-838e-4ac2-968b-83e72f9b38d5",
+        "start_date": "2023-08-10T19:37:48.831Z",
+        "end_date": "2023-08-11T06:21:40.256Z",
+        "created_at": "2023-08-10T17:23:42.296Z",
+        "updated_at": "2023-08-11T03:38:17.191Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "92dc2f28-f1af-46a5-89ab-95818964ed8a",
+        "start_date": "2023-08-10T11:51:11.033Z",
+        "end_date": "2023-08-11T06:58:48.039Z",
+        "created_at": "2023-08-10T17:09:02.413Z",
+        "updated_at": "2023-08-10T18:42:14.464Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "58422bdd-3893-42ee-8bb1-ff1018a5baf4",
+        "start_date": "2023-08-10T11:32:33.497Z",
+        "end_date": "2023-08-10T16:58:41.513Z",
+        "created_at": "2023-08-10T16:31:54.252Z",
+        "updated_at": "2023-08-10T21:28:27.548Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "8f792106-4f8d-4f46-8dd3-162b33ba4a19",
+        "start_date": "2023-08-11T06:23:32.358Z",
+        "end_date": "2023-08-11T04:39:04.264Z",
+        "created_at": "2023-08-10T19:33:25.509Z",
+        "updated_at": "2023-08-10T20:00:49.068Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "62aa38ad-d632-47bd-8782-376085323820",
+        "start_date": "2023-08-10T18:04:53.993Z",
+        "end_date": "2023-08-10T23:45:01.852Z",
+        "created_at": "2023-08-11T07:20:56.096Z",
+        "updated_at": "2023-08-10T21:44:09.156Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "982ff4f8-8b8d-47e2-8042-faf46b55bb7b",
+        "hours_worked": 24958,
+        "created_at": "2023-08-10T23:25:40.259Z",
+        "updated_at": "2023-08-10T22:08:49.942Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "6d716a28-fb97-43d1-a764-44de71567eac",
+        "hours_worked": 99794,
+        "created_at": "2023-08-10T19:47:06.756Z",
+        "updated_at": "2023-08-10T10:42:59.814Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "806163aa-68f8-4194-84a8-67dc2749758f",
+        "hours_worked": 97602,
+        "created_at": "2023-08-11T07:16:19.027Z",
+        "updated_at": "2023-08-11T00:12:11.371Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "67a24e6d-4b2c-4422-987e-3c3ffafd54d1",
+        "hours_worked": 50979,
+        "created_at": "2023-08-10T12:30:51.328Z",
+        "updated_at": "2023-08-10T18:19:57.773Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "1d85542d-dc21-46be-8f6e-d33c97771a41",
+        "hours_worked": 83401,
+        "created_at": "2023-08-10T19:13:54.512Z",
+        "updated_at": "2023-08-10T14:06:31.058Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "61d5dfa6-01cb-4ce2-9e11-ad6136bb2b59",
+        "evaluation_date": "2023-08-10T08:18:37.437Z",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-10T15:37:38.301Z",
+        "updated_at": "2023-08-10T16:53:18.162Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "444c2c7b-4940-4344-82e8-92e0917f718f",
+        "evaluation_date": "2023-08-11T02:27:59.827Z",
+        "evaluation": "Good",
+        "created_at": "2023-08-10T23:25:30.900Z",
+        "updated_at": "2023-08-11T04:03:17.590Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "c942cf0a-f8e3-4b29-a7b3-868b9ca2e596",
+        "evaluation_date": "2023-08-10T09:43:12.952Z",
+        "evaluation": "Average",
+        "created_at": "2023-08-11T03:22:45.067Z",
+        "updated_at": "2023-08-10T08:04:33.212Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "d094551d-bbbb-49f4-b5de-943b52f8f79e",
+        "evaluation_date": "2023-08-10T18:04:05.005Z",
+        "evaluation": "Poor",
+        "created_at": "2023-08-10T22:15:41.785Z",
+        "updated_at": "2023-08-10T08:49:55.912Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "7a5aee53-1ec3-4280-b178-2144158981ad",
+        "evaluation_date": "2023-08-10T20:42:18.217Z",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-10T10:36:09.070Z",
+        "updated_at": "2023-08-10T17:24:33.753Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "8d84a9cd-0112-4a16-a38e-5eb20ce3d2f4",
+        "salary": 22995,
+        "created_at": "2023-08-10T13:17:33.776Z",
+        "updated_at": "2023-08-10T16:37:19.040Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "732d5289-4dca-4aa6-8343-885a8a940cf7",
+        "salary": 60269,
+        "created_at": "2023-08-10T10:49:16.809Z",
+        "updated_at": "2023-08-10T15:42:47.150Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "2fa08b06-0236-467e-bf8c-a9b7fb4782a1",
+        "salary": 99748,
+        "created_at": "2023-08-10T14:36:40.616Z",
+        "updated_at": "2023-08-10T14:31:02.024Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "7d8c97d5-50e0-4e18-bae4-d29adb68d358",
+        "salary": 87453,
+        "created_at": "2023-08-11T02:30:54.747Z",
+        "updated_at": "2023-08-10T12:12:00.259Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "1d7252e7-1570-401f-bb7d-19eb62d8f16b",
+        "salary": 90016,
+        "created_at": "2023-08-11T03:10:05.661Z",
+        "updated_at": "2023-08-10T18:11:41.175Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6da43106-1ee8-46be-b357-2e48b19b28b0",
+        "email": "Rafaela_Brown-Franecki@yahoo.com",
+        "firstName": "Reina",
+        "lastName": "Reinger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/506.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "64f33871-0691-40a4-94fd-671599264cc1",
+        "email": "Raymond.Ruecker-Dickinson32@yahoo.com",
+        "firstName": "Chelsie",
+        "lastName": "Bartoletti",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92553507",
+        "tenantId": null
+      },
+      {
+        "reference": "0177c1c3-15f4-424c-9139-3c3ab28cbb28",
+        "email": "Marquis.Parker@hotmail.com",
+        "firstName": "Will",
+        "lastName": "Greenfelder",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78475979",
+        "tenantId": null
+      },
+      {
+        "reference": "4000f0d5-f147-4c62-8742-b07f4ea66c12",
+        "email": "Felicia.Wolff74@hotmail.com",
+        "firstName": "Estelle",
+        "lastName": "Hudson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47064114",
+        "tenantId": null
+      },
+      {
+        "reference": "a47a9d3e-0ff3-4dce-9ca5-f2a74e554fc2",
+        "email": "Theodore_Towne@yahoo.com",
+        "firstName": "Mariam",
+        "lastName": "Bernhard",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1096367",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "cf21dd16-11c4-486e-8dc3-5764b34da917",
+        "start_date": "2023-08-11T03:58:20.049Z",
+        "end_date": "2023-08-11T00:05:11.978Z",
+        "created_at": "2023-08-10T08:41:18.895Z",
+        "updated_at": "2023-08-10T12:47:54.062Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "39e9dd41-bb92-4dcb-bc46-502a2dcdde60",
+        "start_date": "2023-08-10T15:32:38.457Z",
+        "end_date": "2023-08-11T05:14:07.080Z",
+        "created_at": "2023-08-11T02:23:56.903Z",
+        "updated_at": "2023-08-10T22:18:56.102Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "13217f14-ef9e-41c4-8cb3-6937e6287f00",
+        "start_date": "2023-08-11T06:15:58.206Z",
+        "end_date": "2023-08-11T01:20:35.528Z",
+        "created_at": "2023-08-10T20:23:49.797Z",
+        "updated_at": "2023-08-10T10:33:10.474Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "3acebbf9-3d68-4020-a775-824a89d76819",
+        "start_date": "2023-08-10T20:18:05.031Z",
+        "end_date": "2023-08-10T16:40:08.706Z",
+        "created_at": "2023-08-10T11:41:39.829Z",
+        "updated_at": "2023-08-10T09:55:14.060Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "d278b16f-cb78-4203-afcb-4ac50651ea5c",
+        "start_date": "2023-08-10T18:25:22.283Z",
+        "end_date": "2023-08-10T21:29:31.359Z",
+        "created_at": "2023-08-10T14:29:43.480Z",
+        "updated_at": "2023-08-11T05:11:25.794Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "f7c889b4-bc94-43b4-9f4e-3afc82bdc48d",
+        "hours_worked": 94294,
+        "created_at": "2023-08-10T20:27:01.324Z",
+        "updated_at": "2023-08-10T16:46:03.694Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "71787e7d-052c-4478-94a1-8a187b781e46",
+        "hours_worked": 91121,
+        "created_at": "2023-08-10T19:19:59.779Z",
+        "updated_at": "2023-08-11T02:58:03.856Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "c322dcec-b94e-4fb9-ac31-4c04bac0a924",
+        "hours_worked": 31615,
+        "created_at": "2023-08-11T06:23:26.525Z",
+        "updated_at": "2023-08-11T00:56:41.380Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "7d9b7cb8-f95e-4287-ab74-af78b577c57d",
+        "hours_worked": 25639,
+        "created_at": "2023-08-11T07:29:46.827Z",
+        "updated_at": "2023-08-10T14:02:50.870Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "400bd61d-5f14-4eb8-b46d-b83879370cb4",
+        "hours_worked": 43189,
+        "created_at": "2023-08-11T05:35:55.458Z",
+        "updated_at": "2023-08-10T12:09:32.232Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "e43778e0-6e10-48d1-a358-2b7b5c032aca",
+        "evaluation_date": "2023-08-11T01:44:36.796Z",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-11T04:20:55.718Z",
+        "updated_at": "2023-08-11T00:59:30.287Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "234b9335-cd55-420a-aa62-934f06763391",
+        "evaluation_date": "2023-08-10T19:19:16.761Z",
+        "evaluation": "Good",
+        "created_at": "2023-08-10T20:01:15.038Z",
+        "updated_at": "2023-08-11T03:28:54.494Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "04a3fc1f-155c-446b-8fb8-fe558307f9a9",
+        "evaluation_date": "2023-08-11T02:07:29.941Z",
+        "evaluation": "Average",
+        "created_at": "2023-08-10T13:15:40.185Z",
+        "updated_at": "2023-08-10T11:03:24.397Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "d403a3e9-aa07-44db-bbeb-5c8b43e9787b",
+        "evaluation_date": "2023-08-11T06:37:29.510Z",
+        "evaluation": "Poor",
+        "created_at": "2023-08-10T22:39:35.724Z",
+        "updated_at": "2023-08-10T10:13:44.344Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "7207263e-c020-418e-80bb-707820737aee",
+        "evaluation_date": "2023-08-10T18:06:05.971Z",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-10T11:54:56.073Z",
+        "updated_at": "2023-08-10T21:46:00.426Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "7b47fb24-a065-4e6e-b08b-93fbbd2cc9ae",
+        "salary": 74133,
+        "created_at": "2023-08-10T20:51:26.820Z",
+        "updated_at": "2023-08-11T00:06:02.411Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "ec9bdad8-a56c-4697-8c78-b6ace049187c",
+        "salary": 37793,
+        "created_at": "2023-08-11T06:16:50.602Z",
+        "updated_at": "2023-08-11T04:57:45.653Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "501fd45f-35cf-405d-83b0-42800b33df27",
+        "salary": 95602,
+        "created_at": "2023-08-10T14:30:47.456Z",
+        "updated_at": "2023-08-10T14:01:35.718Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "27832d1e-1c1f-42e3-bd0f-4b1a1466493d",
+        "salary": 10493,
+        "created_at": "2023-08-10T08:17:33.753Z",
+        "updated_at": "2023-08-10T15:53:05.253Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "30e2335a-315c-40da-82cf-098cc3c05ea3",
+        "salary": 31805,
+        "created_at": "2023-08-10T18:36:51.699Z",
+        "updated_at": "2023-08-10T09:16:41.897Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8a1e2625-57f3-4ef0-8241-46e85461771d",
+        "email": "Johnathon_Bins@gmail.com",
+        "firstName": "Keaton",
+        "lastName": "Toy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/499.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6c47bc2a-9948-494d-8015-4b7ffeb8f7cb",
+        "email": "Broderick_Nader46@gmail.com",
+        "firstName": "Claudie",
+        "lastName": "Senger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/358.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2d3f6585-2f2e-4767-8d2c-c62b1dc7b543",
+        "email": "Pascale_Carter@yahoo.com",
+        "firstName": "Janae",
+        "lastName": "Pacocha",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56543595",
+        "tenantId": null
+      },
+      {
+        "reference": "cdccad95-5011-4b8c-87c0-27fa4aeab27d",
+        "email": "Donnie.Miller@gmail.com",
+        "firstName": "Nellie",
+        "lastName": "Zulauf",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35758539",
+        "tenantId": null
+      },
+      {
+        "reference": "d7eb5494-407f-4bb8-a640-f3154b25daad",
+        "email": "Cristina_Hane@hotmail.com",
+        "firstName": "Natalia",
+        "lastName": "Steuber",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1042.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "d64484f5-023f-47f8-a46a-24b986af756d",
+        "start_date": "2023-08-10T08:11:11.697Z",
+        "end_date": "2023-08-10T12:03:38.246Z",
+        "created_at": "2023-08-10T10:46:53.253Z",
+        "updated_at": "2023-08-11T06:38:45.793Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "d814223d-7e8a-41e4-9102-2908d1c5da4d",
+        "start_date": "2023-08-11T07:58:44.412Z",
+        "end_date": "2023-08-11T06:13:39.384Z",
+        "created_at": "2023-08-10T12:51:33.982Z",
+        "updated_at": "2023-08-10T15:02:44.405Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "456a5be3-2ffb-4fbc-9824-a2a767cc8d11",
+        "start_date": "2023-08-10T19:55:08.507Z",
+        "end_date": "2023-08-11T05:15:56.797Z",
+        "created_at": "2023-08-10T15:38:03.893Z",
+        "updated_at": "2023-08-10T21:41:00.495Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "85deb0c0-198b-43f1-8fd8-2a195167749f",
+        "start_date": "2023-08-10T23:55:28.630Z",
+        "end_date": "2023-08-11T03:43:06.307Z",
+        "created_at": "2023-08-10T23:05:33.200Z",
+        "updated_at": "2023-08-11T04:55:10.290Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "9829ad51-3d9a-4177-bbd7-3b3dd0ebbfb6",
+        "start_date": "2023-08-11T07:28:09.483Z",
+        "end_date": "2023-08-10T15:27:57.271Z",
+        "created_at": "2023-08-10T20:50:54.026Z",
+        "updated_at": "2023-08-11T07:25:27.267Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "c5266965-fbea-4eb6-b8c7-c002a158bad1",
+        "hours_worked": 47844,
+        "created_at": "2023-08-10T14:14:03.120Z",
+        "updated_at": "2023-08-10T09:46:32.237Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "32a61f1a-1088-4f96-933f-c8752aea5772",
+        "hours_worked": 17478,
+        "created_at": "2023-08-10T09:41:27.689Z",
+        "updated_at": "2023-08-10T12:20:57.766Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "c4776a3f-fe2b-4596-98c7-6bad9b0db60c",
+        "hours_worked": 89389,
+        "created_at": "2023-08-11T01:37:14.845Z",
+        "updated_at": "2023-08-10T16:13:00.995Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "4a36e00a-ef85-4f6b-9771-e28e5ec279bf",
+        "hours_worked": 62251,
+        "created_at": "2023-08-10T19:55:21.229Z",
+        "updated_at": "2023-08-10T13:36:04.271Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "868542fc-f80d-4705-ba1c-0ef0ca6a4beb",
+        "hours_worked": 8283,
+        "created_at": "2023-08-10T16:09:17.173Z",
+        "updated_at": "2023-08-10T18:54:44.805Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "55df5619-9ef3-464b-abde-68972c3f28b6",
+        "evaluation_date": "2023-08-10T21:12:39.980Z",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-10T23:47:35.323Z",
+        "updated_at": "2023-08-10T18:17:45.192Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "3d11598c-e232-47f7-a7b5-a1e0fde0e810",
+        "evaluation_date": "2023-08-10T15:48:40.497Z",
+        "evaluation": "Good",
+        "created_at": "2023-08-11T00:58:06.634Z",
+        "updated_at": "2023-08-11T01:57:59.794Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "415f5f0d-bb37-4ffb-bfc1-373802aa119c",
+        "evaluation_date": "2023-08-10T10:15:05.465Z",
+        "evaluation": "Average",
+        "created_at": "2023-08-10T14:30:51.224Z",
+        "updated_at": "2023-08-10T12:07:33.189Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "64b16bcc-46a5-4352-b561-207d05badfae",
+        "evaluation_date": "2023-08-10T09:30:32.154Z",
+        "evaluation": "Poor",
+        "created_at": "2023-08-10T21:26:17.163Z",
+        "updated_at": "2023-08-10T18:15:36.509Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "1b3f7127-0b65-47e5-b0ff-a46eb56807e6",
+        "evaluation_date": "2023-08-10T22:44:03.636Z",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-10T09:06:00.616Z",
+        "updated_at": "2023-08-10T09:07:15.225Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "dc2d133a-cc22-4220-b805-9c895a05776d",
+        "salary": 73945,
+        "created_at": "2023-08-11T04:47:35.307Z",
+        "updated_at": "2023-08-11T01:36:45.307Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "074d5c61-9f26-4068-9d3c-89b267abfa04",
+        "salary": 4888,
+        "created_at": "2023-08-10T13:19:04.105Z",
+        "updated_at": "2023-08-10T08:14:42.682Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "83778d60-14a1-4132-a591-93a04da178d9",
+        "salary": 54296,
+        "created_at": "2023-08-10T22:35:53.696Z",
+        "updated_at": "2023-08-10T15:56:55.764Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "7658a36d-b003-495d-a51c-2dd20b7971bc",
+        "salary": 6972,
+        "created_at": "2023-08-11T04:05:35.033Z",
+        "updated_at": "2023-08-10T18:26:39.377Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "5f18d653-df9f-447e-8d9f-c9c5242e5576",
+        "salary": 78224,
+        "created_at": "2023-08-10T16:47:55.681Z",
+        "updated_at": "2023-08-10T10:34:02.805Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d55d5ffa-56e7-4fc5-8eb3-4c49066e9e72",
+        "email": "Alessandra.Lehner7@yahoo.com",
+        "firstName": "Maia",
+        "lastName": "Wilderman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26061836",
+        "tenantId": null
+      },
+      {
+        "reference": "0efb30d4-49ba-4eaa-b80e-f52358cc4fac",
+        "email": "Bennie.Jaskolski93@gmail.com",
+        "firstName": "Efren",
+        "lastName": "Bernier-Mosciski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70711405",
+        "tenantId": null
+      },
+      {
+        "reference": "43b108cb-7ab2-4fc8-890a-7b7c5a1dcbe4",
+        "email": "Nelle.Bailey94@gmail.com",
+        "firstName": "Lacey",
+        "lastName": "Beier",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1235.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c52c5aaf-ebe3-401f-940b-8292bab4cfc1",
+        "email": "Neoma15@hotmail.com",
+        "firstName": "Ayla",
+        "lastName": "Terry",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17965129",
+        "tenantId": null
+      },
+      {
+        "reference": "27d7963b-d0ad-4095-95e7-26d6f80ec87e",
+        "email": "Russell_Feil-Hammes49@hotmail.com",
+        "firstName": "Alden",
+        "lastName": "Ledner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64748456",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "fa42dee2-9fed-4c03-a95f-7c608b6e67f4",
+        "start_date": "2023-08-10T21:38:52.416Z",
+        "end_date": "2023-08-10T12:43:32.520Z",
+        "created_at": "2023-08-10T17:58:52.120Z",
+        "updated_at": "2023-08-11T05:19:47.293Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "a8a6e117-5f33-4994-8f20-114d4fef1534",
+        "start_date": "2023-08-10T20:25:27.636Z",
+        "end_date": "2023-08-11T01:42:28.260Z",
+        "created_at": "2023-08-10T17:40:54.124Z",
+        "updated_at": "2023-08-10T08:36:22.778Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "32767dab-c666-4143-bf6f-79fe23928c68",
+        "start_date": "2023-08-11T07:51:42.147Z",
+        "end_date": "2023-08-10T12:59:36.920Z",
+        "created_at": "2023-08-10T19:25:24.020Z",
+        "updated_at": "2023-08-10T12:07:37.914Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "78adde96-f557-4201-aa66-a35e77bd7f6f",
+        "start_date": "2023-08-11T06:21:44.041Z",
+        "end_date": "2023-08-10T13:35:32.794Z",
+        "created_at": "2023-08-11T04:45:51.352Z",
+        "updated_at": "2023-08-10T20:47:51.513Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "f0834131-16a9-4dc9-b238-710a4e2a236b",
+        "start_date": "2023-08-11T00:30:12.246Z",
+        "end_date": "2023-08-10T11:56:41.730Z",
+        "created_at": "2023-08-11T07:58:09.221Z",
+        "updated_at": "2023-08-10T09:36:49.692Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "206253b7-5c72-4e4b-bb22-023406171d94",
+        "hours_worked": 48984,
+        "created_at": "2023-08-11T06:29:17.754Z",
+        "updated_at": "2023-08-11T07:50:06.519Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "fa9f35a0-5fa7-466b-9141-9fd35173c460",
+        "hours_worked": 98960,
+        "created_at": "2023-08-11T01:41:41.620Z",
+        "updated_at": "2023-08-10T23:36:33.097Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "e23284a6-c091-40ca-88dd-9c06cdf76878",
+        "hours_worked": 4292,
+        "created_at": "2023-08-10T23:32:58.202Z",
+        "updated_at": "2023-08-11T03:58:06.543Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "696b5268-8018-415c-8e41-7b9d665e628e",
+        "hours_worked": 52944,
+        "created_at": "2023-08-10T19:48:15.906Z",
+        "updated_at": "2023-08-10T20:13:11.146Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "9525ca63-6f99-4553-9469-6157bf7bb4a0",
+        "hours_worked": 70688,
+        "created_at": "2023-08-10T10:53:29.124Z",
+        "updated_at": "2023-08-10T19:42:54.520Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "b13b0436-8d33-40ac-9b06-512621bd0e36",
+        "evaluation_date": "2023-08-11T02:07:40.259Z",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-11T07:51:33.373Z",
+        "updated_at": "2023-08-11T01:48:52.862Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "c5445b35-0e97-45fb-bf23-2ed2d7dbeb21",
+        "evaluation_date": "2023-08-11T05:44:52.832Z",
+        "evaluation": "Good",
+        "created_at": "2023-08-10T22:52:01.150Z",
+        "updated_at": "2023-08-10T11:27:57.909Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "987a5325-7271-47f2-be02-e08941d219d7",
+        "evaluation_date": "2023-08-10T13:30:51.581Z",
+        "evaluation": "Average",
+        "created_at": "2023-08-10T23:27:30.708Z",
+        "updated_at": "2023-08-11T00:22:45.514Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "fa23e6d9-e267-4b00-b90f-a881a38a9cf2",
+        "evaluation_date": "2023-08-10T18:41:04.989Z",
+        "evaluation": "Poor",
+        "created_at": "2023-08-10T17:04:49.381Z",
+        "updated_at": "2023-08-10T22:51:43.054Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "2c50fbd4-e36b-413e-8c7d-e6b95e2ae23f",
+        "evaluation_date": "2023-08-10T17:14:42.846Z",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-11T02:29:33.470Z",
+        "updated_at": "2023-08-10T17:07:04.177Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "ae643760-50a7-42ee-aae2-ae373e3338fa",
+        "salary": 13871,
+        "created_at": "2023-08-11T02:30:42.346Z",
+        "updated_at": "2023-08-10T14:40:04.990Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "076f6ba6-0523-428e-95e8-72cede347104",
+        "salary": 85320,
+        "created_at": "2023-08-10T14:43:55.693Z",
+        "updated_at": "2023-08-10T14:37:00.589Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "5ea57fc2-7bb0-4c0a-a90e-bb3bc159a06f",
+        "salary": 79560,
+        "created_at": "2023-08-11T07:13:03.649Z",
+        "updated_at": "2023-08-11T07:01:49.656Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "db7bc09e-b83a-4aac-990b-b2602792613e",
+        "salary": 26876,
+        "created_at": "2023-08-11T06:13:08.331Z",
+        "updated_at": "2023-08-10T22:45:36.441Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "4920cfe0-6cf2-4f8a-95be-836e2d9d89c5",
+        "salary": 45184,
+        "created_at": "2023-08-10T20:46:59.819Z",
+        "updated_at": "2023-08-10T22:27:27.080Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "60ea7f38-4a2d-482f-8686-fb0ed92b14de",
+        "email": "Abby81@yahoo.com",
+        "firstName": "Bennie",
+        "lastName": "Koss",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1115.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e35c35c6-b86a-4411-9f0e-5411c328de4d",
+        "email": "Eda_Ryan80@yahoo.com",
+        "firstName": "Waylon",
+        "lastName": "Stehr",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61349768",
+        "tenantId": null
+      },
+      {
+        "reference": "406b018e-a93e-46f0-a03f-94d7188b4e07",
+        "email": "Arnulfo.Nitzsche96@gmail.com",
+        "firstName": "Jovani",
+        "lastName": "Mann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/548.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1d10e526-7499-41bc-af6c-ca7467bc7794",
+        "email": "Darryl61@yahoo.com",
+        "firstName": "Verna",
+        "lastName": "Gutkowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/40.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "905356cd-5410-4ab4-ab41-18cd157bb18f",
+        "email": "Lowell_Hyatt74@yahoo.com",
+        "firstName": "Isom",
+        "lastName": "Franecki",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52957283",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "d02f096d-cd1c-4812-a5ea-f1c97cbe89ef",
+        "start_date": "2023-08-10T15:52:51.521Z",
+        "end_date": "2023-08-10T14:57:45.949Z",
+        "created_at": "2023-08-11T06:48:08.529Z",
+        "updated_at": "2023-08-10T10:05:47.927Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "ef585075-8818-4f9c-ad7c-203420358a1f",
+        "start_date": "2023-08-10T15:08:52.912Z",
+        "end_date": "2023-08-11T04:30:54.714Z",
+        "created_at": "2023-08-10T19:40:22.874Z",
+        "updated_at": "2023-08-11T06:43:09.938Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "1a6d619f-9525-4fc7-b530-67c823f845de",
+        "start_date": "2023-08-10T10:25:01.565Z",
+        "end_date": "2023-08-10T22:07:57.533Z",
+        "created_at": "2023-08-10T23:21:51.325Z",
+        "updated_at": "2023-08-10T13:35:49.762Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "89a1b1da-a7f6-40bb-95d0-5bbde305361f",
+        "start_date": "2023-08-10T13:42:19.339Z",
+        "end_date": "2023-08-10T18:30:29.955Z",
+        "created_at": "2023-08-11T04:43:42.049Z",
+        "updated_at": "2023-08-10T09:46:35.706Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "4ee6173b-0bab-4cd2-b5ed-af099e74f486",
+        "start_date": "2023-08-11T00:20:41.555Z",
+        "end_date": "2023-08-10T11:28:50.106Z",
+        "created_at": "2023-08-11T04:46:48.678Z",
+        "updated_at": "2023-08-10T22:56:40.969Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "f20aa941-2804-4c6a-baf4-b9e13725eaac",
+        "hours_worked": 136,
+        "created_at": "2023-08-11T05:14:05.103Z",
+        "updated_at": "2023-08-10T23:29:01.176Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "511893ec-869c-414f-8a45-39568df1cdb6",
+        "hours_worked": 37122,
+        "created_at": "2023-08-10T11:49:18.995Z",
+        "updated_at": "2023-08-11T01:09:30.699Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "2d0c566e-ab6f-4881-ba19-c197cff84695",
+        "hours_worked": 76463,
+        "created_at": "2023-08-11T03:12:17.147Z",
+        "updated_at": "2023-08-10T08:45:51.274Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "358d6c4a-987c-4ae6-aa19-7510126bfe62",
+        "hours_worked": 35367,
+        "created_at": "2023-08-10T12:49:37.738Z",
+        "updated_at": "2023-08-10T08:35:13.651Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "76426c5a-3b36-442a-8661-201a9c460dde",
+        "hours_worked": 27512,
+        "created_at": "2023-08-10T17:54:07.259Z",
+        "updated_at": "2023-08-10T17:56:17.587Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "ee7c3fcd-abe1-403f-a02f-aa39e71f64e2",
+        "evaluation_date": "2023-08-10T22:41:14.334Z",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-10T10:32:27.251Z",
+        "updated_at": "2023-08-10T15:34:34.559Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "accc4f51-c492-4669-b0e1-875d5a5958ef",
+        "evaluation_date": "2023-08-11T01:33:54.392Z",
+        "evaluation": "Good",
+        "created_at": "2023-08-11T02:00:10.299Z",
+        "updated_at": "2023-08-11T03:38:15.153Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "de8f55a7-dfcc-43cf-9785-ed18ffe1da3b",
+        "evaluation_date": "2023-08-11T05:23:28.501Z",
+        "evaluation": "Average",
+        "created_at": "2023-08-10T09:19:21.208Z",
+        "updated_at": "2023-08-10T14:54:53.425Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "d974b8de-3ebe-4879-b86d-f85b6ea32a3e",
+        "evaluation_date": "2023-08-11T00:02:20.562Z",
+        "evaluation": "Poor",
+        "created_at": "2023-08-10T20:52:10.621Z",
+        "updated_at": "2023-08-10T22:18:26.269Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      },
+      {
+        "id": "768d5e4f-a4d9-4300-bc3c-2cdbf09d2190",
+        "evaluation_date": "2023-08-10T22:51:23.215Z",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-10T15:29:44.956Z",
+        "updated_at": "2023-08-10T11:44:28.786Z",
+        "employee_id": "user_entity_pk",
+        "team_lead_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "4144f052-0b88-4b9e-93e8-cd053a873dd4",
+        "salary": 76238,
+        "created_at": "2023-08-10T13:57:13.568Z",
+        "updated_at": "2023-08-11T06:26:48.388Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "831acf52-bd0f-4ea3-a367-f38a3e4e4b0f",
+        "salary": 24312,
+        "created_at": "2023-08-10T18:57:51.733Z",
+        "updated_at": "2023-08-10T18:17:44.247Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "c583e600-870c-4727-9bbf-d96e45eac0ab",
+        "salary": 1134,
+        "created_at": "2023-08-11T06:19:47.714Z",
+        "updated_at": "2023-08-10T14:58:34.464Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "389bf511-7ed1-4a9a-a285-89c3e6576fde",
+        "salary": 74953,
+        "created_at": "2023-08-10T19:08:54.750Z",
+        "updated_at": "2023-08-10T22:55:51.439Z",
+        "employee_id": "user_entity_pk"
+      },
+      {
+        "id": "4c42b420-f912-4a76-982a-109428014f39",
+        "salary": 55071,
+        "created_at": "2023-08-10T23:28:14.428Z",
+        "updated_at": "2023-08-11T02:19:29.032Z",
+        "employee_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "070e14a0-ae6b-4a70-bfe9-3bf7abbaeddb",
+        "email": "Alysa.Douglas31@yahoo.com",
+        "firstName": "Gardner",
+        "lastName": "Hintz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/175.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "15ffe371-1a56-4e3d-bed3-74249f977eef",
+        "email": "Trace_Jenkins@gmail.com",
+        "firstName": "Amaya",
+        "lastName": "Buckridge",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1052.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "da2c7a71-84f5-4595-8551-c854d3c89128",
+        "email": "Chasity.Stokes@gmail.com",
+        "firstName": "Jaylon",
+        "lastName": "Considine",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1059.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "80acbc0b-0720-4e72-949f-bf729ddc0afb",
+        "email": "Orville.Kilback65@hotmail.com",
+        "firstName": "Avis",
+        "lastName": "Bergstrom-Nikolaus",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43421246",
+        "tenantId": null
+      },
+      {
+        "reference": "4d705daa-55c9-4fc8-aa83-a608e4639fa2",
+        "email": "Charlie86@yahoo.com",
+        "firstName": "Jackeline",
+        "lastName": "Windler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15173822",
+        "tenantId": null
+      }
+    ]
+  }
+]
